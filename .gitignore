@@ -1,0 +1,11 @@
+# Archivo de claves secretas
+.env
+
+# Dependencias de Node.js
+node_modules/
+
+# Base de datos local
+bot.db
+
+# Logs
+*.log
